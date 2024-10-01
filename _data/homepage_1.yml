@@ -2,40 +2,40 @@
 hero_area:
   background_image : "/assets/images/bg/banner-2.png"
   subtitle: "Mi Nombre es Oliver Vigilio"
-  title : "I am a creative <br>UI/UX Designer <br>from London."
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  title : "Soy Un Diseniador <br>Creativo de UI/UX <br>De Lima."
+  content : "Soy estudiante del ultimo ciclo de la carrera de Desarrollo de Sistemas en el Instituto SISE."
   image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : true
-    label : "contact me"
+    label : "Contactame"
     link : "/contact"
 
 ########################### Service ##############################
 services:
-- title : "Brand Design"
+- title : "Diseño de Marcas"
   icon : "ti-ruler-pencil"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Diseñamos tu marca segun tus preferencias."
 
-- title : "Seo & Marketing"
+- title : "Posicionamiento web y marketing"
   icon : "ti-announcement"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "En la era digital, tener una presencia en línea sólida es esencial para el éxito de cualquier negocio. El posicionamiento web y marketing te permite aumentar la visibilidad de tu marca, atraer más clientes potenciales y generar más ventas."
 
-- title : "Creative Design"
+- title : "Diseño creativo"
   icon : "ti-palette"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Es la chispa que enciende la imaginación y transforma conceptos abstractos en realidades tangibles."
 
 
 ########################### Testimonial ###########################
 testimonial:
   enable : true
-  title : "clients feedback"
+  title : "Comentarios de clientes"
   subtitle : "testimonials"
   bg_image : "/assets/images/bg/testimonial-bg.png"
   item:
   - name : "Liam Hughes"
     designation : "Manager"
     image : "/assets/images/team/test-1.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+    content : "Exelente servicio, lo tuve a tiempo."
     
   - name : "Jane Austin"
     designation : "Designer"
