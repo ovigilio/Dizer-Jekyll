@@ -11,19 +11,19 @@ main:
         url: /index-3.html
       - name: Home 4
         url: /index-4.html
-  - name: About
+  - name: Acerca de
     url: "#"
     submenu:
-      - name: About
+      - name: Acerca de
         url: /about.html
-      - name: About Me
+      - name: Acerca de mi
         url: /about-me.html
   - name: Blog
     url: /blog-1.html
-  - name: Pages
+  - name: Paginas
     url: /
     submenu:
-      - name: Services
+      - name: Servicios
         url: /services.html
       - name: Portfolio One
         url: /portfolio-1.html
@@ -31,7 +31,7 @@ main:
         url: /portfolio-2.html
       - name: 404
         url: /404
-  - name: Contact
+  - name: Contacto
     url: /contact.html
 
 ########## footer menu ###############
